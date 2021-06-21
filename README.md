@@ -1,1 +1,1 @@
-# Codeacademy_Python3
+# Codeacademy exercises for Python3 course
